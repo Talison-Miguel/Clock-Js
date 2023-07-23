@@ -35,7 +35,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo um relógio funcional, feita totalmente com javaScript puro.
+Este é um repositório contendo um relógio funcional, feito totalmente com javaScript puro.
 
 ---
 
